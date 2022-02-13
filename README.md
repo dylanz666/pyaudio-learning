@@ -30,7 +30,7 @@ python3 main.py - detect_audio --channels=1 --rate=44100 --chunk=1024 --audio_mi
 python3 main.py - play_and_detect --source_file=test.wav --channels=1 --rate=44100 --chunk=1024 --audio_min_rms=500 -max_low_audio_flag=100 --recording=True --recording_file=recording.wav
 ```
 
-### Others
+### Others:
 Below files are only for demo usage.
 * player.py
 * playerCallbackVersion.py
